@@ -71,7 +71,6 @@ def divide(dividend, divisor):
     # if order of number is 0, then :
     if r > 0 or k == 0:
 
-        remainder = [0] * len(numerator)
         xd = [0] * len(numerator)
 
         counter = r
